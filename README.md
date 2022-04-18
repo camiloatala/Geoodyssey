@@ -12,6 +12,10 @@ GeoOdyssey is a personal instagram travel dedicated to post best travel spots, h
 
 * <https://www.instagram.com/geoodyssey/>
 
+## Sources for project
+
+Help from https://startbootstrap.com/ to come up with a creative template to use as baseline for project. 
+
 ## Copyright and License
 
 Copyright 2018 GeoOdyssey
