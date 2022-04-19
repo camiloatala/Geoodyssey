@@ -20,7 +20,10 @@ Information to Convey: Travel destinations from around the globe for the audienc
 
 Target Audience: Individuals who love to travel and are interested in learning about beautiful locations around the world to add to their bucketlist.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c70d151119c33f3054f25c7227c4c9108dd40f7e
 ## Sources for project
 
 Help from https://startbootstrap.com/ to come up with a creative template to use as baseline for project. 
